@@ -1,0 +1,182 @@
+{
+    "movies" : [
+        {
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/6d/e2/6de2a3c36ddfa834c8c2191be7cc5c69/6de2a3c36ddfa834c8c2191be7cc5c69.jpg",
+            "description": "\n        Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.\n    ",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science Fiction",
+                "Comedy",
+                "Romance"
+            ],
+            "id": 1,
+            "movieId":1,
+            "image": "https://img.flixhq.to/xxrz/250x400/379/81/6a/816aa6fbf5badbef46170a1d3358c1b6/816aa6fbf5badbef46170a1d3358c1b6.jpg",
+            "releaseDate": "2019-06-28",
+            "title": "Spider-Man: Far from Home",
+            "type": "Movie",
+            "url": "https://flixhq.to/movie/watch-spiderman-far-from-home-17240"
+        },
+        {
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/9f/d3/9fd3b3ece2f8bc926ab4f55e626d5d34/9fd3b3ece2f8bc926ab4f55e626d5d34.jpg",
+            "description": "\n        After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.\n    ",
+            "genres": [
+                "Adventure",
+                "Science Fiction",
+                "Action"
+            ],
+            "id": 2,
+            "movieId":2,
+            "image": "https://img.flixhq.to/xxrz/250x400/379/d5/c9/d5c931df6080a426ed559d24896d5349/d5c931df6080a426ed559d24896d5349.jpg",
+            "releaseDate": "2019-04-24",
+            "title": "Avengers: Endgame",
+            "type": "Movie",
+            "url": "https://flixhq.to/movie/watch-avengers-endgame-19722"
+        },
+        {
+            "id": 3,
+            "movieId":3,
+            "title": "The Avengers",
+            "url": "https://flixhq.to/movie/watch-the-avengers-19782",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/14/2e/142e1c6859030636bde53a0679bf4496/142e1c6859030636bde53a0679bf4496.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/57/ec/57ec752666c6139d90be4f0648f97749/57ec752666c6139d90be4f0648f97749.jpg",
+            "description": "\n        When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!\n    ",
+            "type": "Movie",
+            "releaseDate": "2012-04-25",
+            "genres": [
+                "Science Fiction",
+                "Action",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 4,
+            "movieId":4,
+            "title": "Ted",
+            "url": "https://flixhq.to/movie/watch-ted-19092",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/9b/72/9b72a9fcfcca51f8c5059488e2e4197e/9b72a9fcfcca51f8c5059488e2e4197e.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/6a/1e/6a1e6044e376ae73fe5894defe1967fd/6a1e6044e376ae73fe5894defe1967fd.jpg",
+            "description": "\n        John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.\n    ",
+            "type": "Movie",
+            "releaseDate": "2012-06-29",
+            "genres": [
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "id": 5,
+            "movieId":5,
+            "title": "Ted 2",
+            "url": "https://flixhq.to/movie/watch-ted-2-19512",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/fc/b4/fcb43518a3dd8515028ad83ffdfc13a4/fcb43518a3dd8515028ad83ffdfc13a4.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/74/dc/74dc864f28b856d4dcfc6c23ffeaeb8d/74dc864f28b856d4dcfc6c23ffeaeb8d.jpg",
+            "description": "\n        Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.\n    ",
+            "type": "Movie",
+            "releaseDate": "2015-06-25",
+            "genres": [
+                "Comedy"
+            ]
+        },
+        {
+            "id": 6,
+            "movieId":6,
+            "title": "The Batman",
+            "url": "https://flixhq.to/movie/watch-the-batman-16076",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/34/98/3498b36949518ca118b1ebe321dbd7ca/3498b36949518ca118b1ebe321dbd7ca.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/21/2d/212d2d95b9d515504a4de227d49a769f/212d2d95b9d515504a4de227d49a769f.jpg",
+            "description": "\n        A point-of-view driven noir tale with heavy focus on Batman's detective work. A stand-alone story with no connection to the DCEU.\n    ",
+            "type": "Movie",
+            "releaseDate": "2022-03-01",
+            "genres": [
+                "Drama",
+                "Action",
+                "Crime",
+                "Mystery",
+                "Fantasy",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 7,
+            "movieId":7,
+            "title": "Justice League",
+            "url": "https://flixhq.to/movie/watch-justice-league-19763",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/18/1d/181deb29f8370545631f5dc2f06cb11a/181deb29f8370545631f5dc2f06cb11a.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/fc/3c/fc3c8d6998e065a2ebe1f319b80953f7/fc3c8d6998e065a2ebe1f319b80953f7.jpg",
+            "description": "\n        Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.\n    ",
+            "type": "Movie",
+            "releaseDate": "2017-11-15",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Science Fiction"
+            ]
+        },
+        {
+            "id": 8,
+            "movieId":8,
+            "title": "John Wick",
+            "url": "https://flixhq.to/movie/watch-john-wick-19789",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/d0/68/d06861dfbcfbe93f8719439ba3c8dccb/d06861dfbcfbe93f8719439ba3c8dccb.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/94/17/941798d0b14f513f4d4579da3393f588/941798d0b14f513f4d4579da3393f588.jpg",
+            "description": "\n        Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.\n    ",
+            "type": "Movie",
+            "releaseDate": "2014-10-22",
+            "genres": [
+                "Action",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 9,
+            "movieId":9,
+            "title": "John Wick: Chapter 2",
+            "url": "https://flixhq.to/movie/watch-john-wick-chapter-2-19624",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/17/8a/178affd9ecfbfde002d10705985b0ba0/178affd9ecfbfde002d10705985b0ba0.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/65/ec/65ecab8221f5eac024f56bbb39a51cde/65ecab8221f5eac024f56bbb39a51cde.jpg",
+            "description": "\n        John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.\n    ",
+            "type": "Movie",
+            "releaseDate": "2017-02-08",
+            "genres": [
+                "Thriller",
+                "Action",
+                "Crime"
+            ]
+        },
+        {
+            "id": 10,
+            "movieId":10,
+            "title": "John Wick: Chapter 4",
+            "url": "https://flixhq.to/movie/watch-john-wick-chapter-4-90163",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/af/e3/afe3172b6a93ac1888d1c67a98af47d6/afe3172b6a93ac1888d1c67a98af47d6.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/1e/9e/1e9efbf118acd1e7661d144868dc5ef5/1e9efbf118acd1e7661d144868dc5ef5.jpg",
+            "description": "\n        With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.\n    ",
+            "type": "Movie",
+            "releaseDate": "2023-03-22",
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ]
+        },
+        {
+            "id": 11,
+            "movieId":11,
+            "title": "John Wick: Chapter 3 – Parabellum",
+            "url": "https://flixhq.to/movie/watch-john-wick-chapter-3-parabellum-17361",
+            "cover": "https://img.flixhq.to/xxrz/1200x600/379/45/e7/45e70d48ac23645a7d6b5e0b79c6e5d5/45e70d48ac23645a7d6b5e0b79c6e5d5.jpg",
+            "image": "https://img.flixhq.to/xxrz/250x400/379/eb/6f/eb6f0f7dfd29246c633e38d0e7ea4346/eb6f0f7dfd29246c633e38d0e7ea4346.jpg",
+            "description": "\n        Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.\n    ",
+            "type": "Movie",
+            "releaseDate": "2019-05-15",
+            "genres": [
+                "Crime",
+                "Action",
+                "Thriller"
+            ]
+        }
+    ]
+}

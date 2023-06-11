@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Spider-Man: Far from Home",
+        "desc": "\n        Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/81/6a/816aa6fbf5badbef46170a1d3358c1b6/816aa6fbf5badbef46170a1d3358c1b6.jpg",
+        "releaseDate": "2019-06-28"
+    },
+    {
+        "id": 2,
+        "title": "Avengers: Endgame",
+        "desc": "\n        After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/d5/c9/d5c931df6080a426ed559d24896d5349/d5c931df6080a426ed559d24896d5349.jpg",
+        "releaseDate": "2019-04-24"
+    },
+    {
+        "id": 3,
+        "title": "The Avengers",
+        "desc": "\n        When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/57/ec/57ec752666c6139d90be4f0648f97749/57ec752666c6139d90be4f0648f97749.jpg",
+        "releaseDate": "2012-04-25"
+    },
+    {
+        "id": 4,
+        "title": "Ted",
+        "desc": "\n        John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/6a/1e/6a1e6044e376ae73fe5894defe1967fd/6a1e6044e376ae73fe5894defe1967fd.jpg",
+        "releaseDate": "2012-06-29"
+    },
+    {
+        "id": 5,
+        "title": "Ted 2",
+        "desc": "\n        Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/74/dc/74dc864f28b856d4dcfc6c23ffeaeb8d/74dc864f28b856d4dcfc6c23ffeaeb8d.jpg",
+        "releaseDate": "2015-06-25"
+    },
+    {
+        "id": 6,
+        "title": "The Batman",
+        "desc": "\n        A point-of-view driven noir tale with heavy focus on Batman's detective work. A stand-alone story with no connection to the DCEU.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/21/2d/212d2d95b9d515504a4de227d49a769f/212d2d95b9d515504a4de227d49a769f.jpg",
+        "releaseDate": "2022-03-01"
+    },
+    {
+        "id": 7,
+        "title": "Justice League",
+        "desc": "\n        Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/fc/3c/fc3c8d6998e065a2ebe1f319b80953f7/fc3c8d6998e065a2ebe1f319b80953f7.jpg",
+        "releaseDate": "2017-11-15"
+    },
+    {
+        "id": 8,
+        "title": "John Wick",
+        "desc": "\n        Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/94/17/941798d0b14f513f4d4579da3393f588/941798d0b14f513f4d4579da3393f588.jpg",
+        "releaseDate": "2014-10-22"
+    },
+    {
+        "id": 9,
+        "title": "John Wick: Chapter 2",
+        "desc": "\n        John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/65/ec/65ecab8221f5eac024f56bbb39a51cde/65ecab8221f5eac024f56bbb39a51cde.jpg",
+        "releaseDate": "2017-02-08"
+    },
+    {
+        "id": 10,
+        "title": "John Wick: Chapter 3 – Parabellum",
+        "desc": "\n        Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.\n    ",
+        "image": "https://img.flixhq.to/xxrz/250x400/379/eb/6f/eb6f0f7dfd29246c633e38d0e7ea4346/eb6f0f7dfd29246c633e38d0e7ea4346.jpg",
+        "releaseDate": "2019-05-15"
+    }
+]
