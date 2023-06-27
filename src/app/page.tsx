@@ -24,6 +24,7 @@ export default async function Home() {
                       <p className="my-5">{movie.title}</p>
                       <Link href={`./movies/${movie.id}`} className="rounded bg-sky-600 p-2">Selengkapnya</Link>
                   </div>
+                  <p></p>
                 </>
             )
         })}
