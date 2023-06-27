@@ -20,6 +20,7 @@ export default async function MoviePage({params:{id}}:Params) {
             <h1>{movie.title}</h1>
             <p>{movie.desc}</p>
             <p>{movie.releaseDate}</p>
+            <p></p>
         </>
     )
 }
